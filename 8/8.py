@@ -1,6 +1,9 @@
 #8 pratybos
 #39 uzduotis
 
+#kol kas nesigauna atsakymas
+#ÿ♣ÿ5þ÷ùßä_æ⌂ÊÿÞÿ_ûwû_ú☼óßäÿ!.........
+
 #	c8 c7 c6 c5 c4 c3 c2 c1  (laisv)
 #	1  0  1  1  0  0  0  0   0
 #	1  1  0  0  0  0  0  0   1
