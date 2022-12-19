@@ -81,6 +81,5 @@ private = 3319192495962269328721702216759443138043
 
 #3 punktas
 msg = decrypt(c, private, public[0])
-print(msg)
-print("Atsakymas:", msg, i_teksta(msg))
 
+print("Atsakymas:", msg, i_teksta(msg))
