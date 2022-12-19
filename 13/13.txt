@@ -1,0 +1,8 @@
+ 19 užduotis 
+1. Rabin kriptosistemos privatusis raktas [p,q]=  [79496847203390844133441739, 79496847203390844133441987].
+Iššifruokite  šifrą 
+369412936784193964016448726382270848904560824373225. Tekstas keičiamas skaičiumi kaip RSA užduotyje.
+
+2. Privatusis Blumo-Goldwasserio  kriptosistemos raktas [p,q]=  [78691, 78707],h=8
+Iššifruokite šifrą  
+[65, 76, 181, 188, 186, 254, 22, 58, 179, 247, 8, 22, 111, 1412592686]
